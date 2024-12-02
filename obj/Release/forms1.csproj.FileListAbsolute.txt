@@ -1,0 +1,5 @@
+C:\Users\Aluno\Desktop\forms1\forms1\obj\Release\forms1.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\forms1\forms1\obj\Release\forms1.Form1.resources
+C:\Users\Aluno\Desktop\forms1\forms1\obj\Release\forms1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\forms1\forms1\obj\Release\forms1.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\forms1\forms1\obj\Release\forms1.csproj.CoreCompileInputs.cache

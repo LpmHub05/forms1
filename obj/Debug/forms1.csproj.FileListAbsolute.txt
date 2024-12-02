@@ -1,0 +1,1323 @@
+C:\Users\Aluno\Desktop\forms1\forms1\obj\Debug\forms1.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\forms1\forms1\obj\Debug\forms1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\forms1\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\forms1\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\forms1.exe.config
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\forms1.exe
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\forms1.pdb
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\ZstdSharp.dll
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\forms1\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\forms1\forms1\obj\Debug\forms1.csproj.CopyComplete
+C:\Users\Aluno\Desktop\forms1\forms1\obj\Debug\forms1.exe
+C:\Users\Aluno\Desktop\forms1\forms1\obj\Debug\forms1.pdb
+C:\Users\Aluno\Desktop\forms1\forms1\obj\Debug\forms1.frmCliente.resources
+C:\Users\Aluno\Desktop\forms1\forms1\obj\Debug\forms1.frmAluguel.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.exe.config
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\MySql.Data.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Buffers.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Memory.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\ZstdSharp.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\MySql.Data.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Buffers.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Memory.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.AssemblyReference.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmCliente.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmAluguel.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmManutencao.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmHistorico.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmProduto.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.Up2Date
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.pdb
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.exe.config
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.exe
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.pdb
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\MySql.Data.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Buffers.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.IO.Pipelines.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Memory.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\ZstdSharp.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.pdb
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\MySql.Data.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Buffers.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.IO.Pipelines.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Memory.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csprojAssemblyReference.cache
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmCliente.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmAluguel.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmManutencao.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmHistorico.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmProduto.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.CopyComplete
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.exe
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.pdb
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.exe.config
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.exe
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.pdb
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\ZstdSharp.dll
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmCliente.resources
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmAluguel.resources
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmManutencao.resources
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmHistorico.resources
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmProduto.resources
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.CopyComplete
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.exe
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.pdb
+C:\Users\Aluno\Desktop\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmSplashScreen.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.exe.config
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\MySql.Data.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Buffers.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Memory.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\ZstdSharp.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\MySql.Data.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Buffers.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Memory.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.AssemblyReference.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmCliente.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmAluguel.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmManutencao.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmHistorico.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmProduto.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmSplashScreen.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.Up2Date
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.pdb
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.exe.config
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.exe
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.pdb
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\MySql.Data.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Buffers.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.IO.Pipelines.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Memory.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\ZstdSharp.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.pdb
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\MySql.Data.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Buffers.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.IO.Pipelines.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Memory.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csprojAssemblyReference.cache
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmCliente.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmAluguel.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmManutencao.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmHistorico.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmProduto.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmSplashScreen.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.CopyComplete
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.exe
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.pdb
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.exe.config
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.exe
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.pdb
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\ZstdSharp.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmCliente.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmAluguel.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmManutencao.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmHistorico.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmProduto.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmSplashScreen.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.exe
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.pdb
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.exe.config
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.exe
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\forms1.pdb
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\MySql.Data.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Buffers.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.IO.Pipelines.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Memory.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\ZstdSharp.dll
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.pdb
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Google.Protobuf.xml
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\MySql.Data.xml
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Buffers.xml
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.IO.Pipelines.xml
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Memory.xml
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csprojAssemblyReference.cache
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmCliente.resources
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmAluguel.resources
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmManutencao.resources
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmHistorico.resources
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmProduto.resources
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.frmSplashScreen.resources
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.csproj.CopyComplete
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.exe
+F:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSBANCODADOS\forms1\obj\Debug\forms1.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe.config
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ZstdSharp.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.AssemblyReference.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmCliente.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmAluguel.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmManutencao.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmHistorico.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmProduto.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmSplashScreen.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.Up2Date
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.pdb
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe.config
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.pdb
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ZstdSharp.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmCliente.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmAluguel.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmManutencao.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmHistorico.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmProduto.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmSplashScreen.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.exe
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.pdb
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe.config
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.pdb
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ZstdSharp.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.pdb
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csprojAssemblyReference.cache
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmCliente.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmAluguel.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmManutencao.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmHistorico.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmProduto.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmSplashScreen.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.CopyComplete
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.exe
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.pdb
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\bd_admin.mdf
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\bd_admin_log.ldf
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira2\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\bd_admin.mdf
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\bd_admin_log.ldf
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe.config
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.pdb
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ZstdSharp.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.xml
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmCliente.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmAluguel.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmManutencao.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmHistorico.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmProduto.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmSplashScreen.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.exe
+C:\Users\Aluno\Desktop\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.pdb
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\bd_admin.mdf
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\bd_admin_log.ldf
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe.config
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.pdb
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ZstdSharp.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.pdb
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.xml
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csprojAssemblyReference.cache
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmCliente.resources
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmAluguel.resources
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmManutencao.resources
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmHistorico.resources
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmProduto.resources
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmSplashScreen.resources
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.CopyComplete
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.exe
+D:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.pdb
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe.config
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.pdb
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ZstdSharp.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.pdb
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.xml
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.AssemblyReference.cache
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmCliente.resources
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmAluguel.resources
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmManutencao.resources
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmHistorico.resources
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmProduto.resources
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmSplashScreen.resources
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.Up2Date
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.exe
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.pdb
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\banco_admin.mdf
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\banco_admin_log.ldf
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.SuggestedBindingRedirects.cache
+E:\Lucas_MatheusPereira3\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.exe.config
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\banco_admin.mdf
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\banco_admin_log.ldf
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe.config
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.pdb
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ZstdSharp.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.xml
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.exe.config
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmCliente.resources
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmAluguel.resources
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmManutencao.resources
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmHistorico.resources
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmProduto.resources
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmSplashScreen.resources
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.exe
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.pdb
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\banco_admin.mdf
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\banco_admin_log.ldf
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe.config
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.pdb
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ZstdSharp.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.pdb
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.xml
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.exe.config
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmCliente.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmAluguel.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmManutencao.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmHistorico.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmProduto.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmSplashScreen.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.exe
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.pdb
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.AssemblyReference.cache
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.SuggestedBindingRedirects.cache
+E:\Atividades ETEC - Pendrive\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.Up2Date
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.AssemblyReference.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.exe.config
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmCliente.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmAluguel.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmManutencao.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmHistorico.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmProduto.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmSplashScreen.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\banco_admin.mdf
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\banco_admin_log.ldf
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe.config
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ZstdSharp.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\2º BIM\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.Up2Date
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\ProjetoServicos_Lucas_MatheusPereira\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.Up2Date
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\banco_admin.mdf
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\banco_admin_log.ldf
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe.config
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\forms1.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ZstdSharp.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Core.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Azure.Identity.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Google.Protobuf.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\MySql.Data.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Buffers.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ClientModel.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Memory.Data.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Permissions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Text.Json.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\System.ValueTuple.xml
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.AssemblyReference.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.exe.config
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmCliente.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmAluguel.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmManutencao.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmHistorico.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmProduto.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmTipoProduto.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.frmSplashScreen.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.Properties.Resources.resources
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.GenerateResource.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.csproj.Up2Date
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.exe
+C:\Users\Desktop\Desktop\2024 - 2º MDS\DS\3º BIM\ProjetoServicos_LucasMatheusPereiraCRUD\EXERCFORMSPROJETOSERVICOS\forms1\obj\Debug\forms1.pdb
